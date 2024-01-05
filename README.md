@@ -1,8 +1,8 @@
-# Swit-Trade-Shippping-order-analysis-
+# Stock Price Analysis - Tesla
 
-Swit Trade is a company which ships a variety of Goods all over the world.
+Tesla is an American electric vehicle and clean energy company.An important shareholder is tired of receiving only monthly updates of the stock price.
 
-Analysing this data would help the Shipping manager do know the monthly details and can tell how many orders are oustanding a dat ad where they should be shipped.
+He says that he would like to see any trends of the stock price speciafically for the last 3 months.
+He also wants this data to be updated daily.
 
-Swit Trade has a database on azure as well as on Maria DB.
-The manager provided te details to connect on it 
+Its important for him to know the avergae monthly stick price, daily closing figures and volume of stock traded.
